@@ -1,11 +1,31 @@
-# Biscuit for Firefox
-Warm and cozy colorscheme for Firefox, a fork of https://github.com/migueravila/SimpleFox
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/Biscuit-Colorscheme/.github/main/assets/icon-dark-nobg.png" width="100"/><br/>
+  Biscuit for <a href="https://firefox.com">Firefox</a>
+</h3>
 
-### Usage
-1. In the searchbar type `about:config`. A dialog will be shown to you. Press the **I accept the risk** button.
-2. Search for **`toolkit.legacyUserProfileCustomizations.stylesheets`**, **`layers.acceleration.force-enabled`**, **`gfx.webrender.all`**, and **`svg.context-properties.content.enabled`**. Change them to **True**
-3. Go to your Firefox profile:
-    - If you're on Linux: `$HOME/.mozilla/firefox/XXXXXXX.default-release/`
-    - If you're on Windows: `C:\Users\<USERNAME>\AppData\Roaming\Mozilla\Firefox\Profiles\XXXXXXX.default-XXXXXX`
-    - If you're on MacOS: `Users/<USERNAME>/Library/Application Support/Firefox/Profiles/XXXXXXX.default-XXXXXXX` 
-4. Move the `chrome` folder into the directory and enjoy.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Biscuit-Colorscheme/.github/main/assets/color-cycle-light.png" alt="Biscuit palette" width="400" />
+</p>
+
+<p align="center">
+  <img src="assets/showcase.png"/>
+</p>
+
+### 📥 Installation
+1. Get the Firefox Color extension from the Firefox Addons website:
+   * [addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/)
+2. After doing so, go to this page and install the theme:
+   * [color.firefox.com](https://color.firefox.com/?theme=XQAAAALxAQAAAAAAAABBKYhm849SCicxcT_m3XcGHf3p79EhVPWDZjvkqSASmCJAHUsaIUojJfO31ND9KL5ybS4xMVzRljoRzErjn3tTXn9QEiKqHM17YU_XzCD03RmhfJkdFZPvEzVYDZDGHnPReSnIGMdxMGaDtmGTEQlIVn81Zj-HOD2O9NnDp8t8SzHJ9ensy568L3UiQwLCXQqnhcM49YvozegqCLTzBqb7gdAlF6EEZEDXGAgA7UGyD8ODBEdvX9N9Rb2836BBKBZpbBvRRzQNfKPRThYUarwPZ4lCnYY0DIh0cCilrL6ADIZE223-I56ShbkDrU6YP_5kn1w)
+3. And after that, you should be OK to go!
+   * Alternatively, you could install the [Firefox theme from the Firefox Addons website.](https://addons.mozilla.org/en-US/firefox/addon/biscuit/)
+
+### 💝 Thanks To
+Thanks to all these amazing people for their work!
+
+<a href="https://github.com/biscuit-colorscheme/firefox/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=biscuit-colorscheme/firefox" />
+</a>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Biscuit-Colorscheme/.github/main/assets/color-cycle-light.png" alt="Biscuit palette" width="400" />
+</p>
