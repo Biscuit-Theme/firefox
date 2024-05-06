@@ -21,6 +21,7 @@
 
 ### 💝 Thanks To
 Thanks to all these amazing people for their work!
+
 <a href="https://github.com/biscuit-colorscheme/firefox/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=biscuit-colorscheme/firefox" />
 </a>
