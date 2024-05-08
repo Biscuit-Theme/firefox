@@ -16,7 +16,8 @@
    * [addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/)
    * You could ignore both this and the second step and go straight to the third step.
 2. After doing so, go to this page and install the theme:
-   * [color.firefox.com](https://color.firefox.com/?theme=XQAAAALyAQAAAAAAAABBKYhm849SCicxcT_m3XcGHf3p79EhVPWDZjvkqSASmCJAHUsaIUojJfPH18O3H5MQs3XGdXNWdoKZYFpmywIypZSMPW7nq32T5ZuGfGoTt7jyG6uD7EOktV3BK5OvONgfUGYkcCnXuUK2puWCmqssZw2ROzifwhvD6Be1KMIsCBswBDX8xgmUyoP3Hk-wiFIAngkS10MR-riVaJRPheUKibKm9HBjzXXnZ_eHN-ZKYvgmX6M1YodjEQcc625F2bKDz2nCQtka7NVvKDtiklpiW1bziUEccTtIwbmNm2Tv6iTIaEhcQnv2rrn5vlZH4cT_5z-Ing)
+   * [color.firefox.com](https://color.firefox.com/?theme=XQAAAALyAQAAAAAAAABBKYhm849SCicxcT_m3XcGHf3p79EhVPWDZjvkqSASmCJAHUsaIUojJfPH18O3H5MQs3XGdXNWdoKZYFpmywIypZSMPW7nq32T5ZuGfGoTt7jyG6uD7EOktV3BK5OvONgfUGYkcCnXuUK2puWCmqssZw2ROzifwhvD6Be1KMIsCBswBDX8xgmUyoP3Hk-wiFIAngkS10MR-riVaJRPheUKibKm9HBjzXXnZ_eHN-ZKYvgmX6M1YodjEQcc625F2bKDz2nCQtka7NVvKDtiklpiW1bziUEccTtIwbmNm2Tv6iTIaEhcQnv2rrn5vlZH4cT_5z-Ing) (dark theme)
+   * [color.firefox.com](https://color.firefox.com/?theme=XQAAAALXAQAAAAAAAABBKYhm849SCicxcT_m3XcGHf3p79EhVQAo8GHaa7zWImvzJllaEHYo3vC9Z28Dq_1ZDg7-Jdwly3LjggdxP8-LdIFA19CNzT5UPvNAIJShQ7gFKkAZnVhgSfodpb06Agst1fsrdH2jyTNZbNRkfjNwDw1K48ilJTs53k7hcJrQ-T_C4Pc6yllQ0gZYpRG0yx3VWlAA89cLR89u9RBMfXKnmfyeO8QzYqAc51UDlOAZvOvIaoSmAGuf3IrrNF4ocfIdv_32I0wMWMkudY_N34eFaPVZ4qNRHUj98zYbcI07E0nRk17gf_PnzZ__62dRoA) (light theme)
 3. And after that, you should be OK to go!
    * Alternatively, you could install the [Firefox theme from the Firefox Addons website](https://addons.mozilla.org/en-US/firefox/addon/biscuit-dark-moss-green "Made by voidpine, respect to them for letting us use this.") *(My version may be considered as 'too simple', that's why we're linking to Voidpine's version)*.
 
