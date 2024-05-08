@@ -14,10 +14,11 @@
 ### 📥 Installation
 1. Get the Firefox Color extension from the Firefox Addons website:
    * [addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/)
+   * You could ignore both this and the second step and go straight to the third step.
 2. After doing so, go to this page and install the theme:
-   * [color.firefox.com](https://color.firefox.com/?theme=XQAAAALxAQAAAAAAAABBKYhm849SCicxcT_m3XcGHf3p79EhVPWDZjvkqSASmCJAHUsaIUojJfO31ND9KL5ybS4xMVzRljoRzErjn3tTXn9QEiKqHM17YU_XzCD03RmhfJkdFZPvEzVYDZDGHnPReSnIGMdxMGaDtmGTEQlIVn81Zj-HOD2O9NnDp8t8SzHJ9ensy568L3UiQwLCXQqnhcM49YvozegqCLTzBqb7gdAlF6EEZEDXGAgA7UGyD8ODBEdvX9N9Rb2836BBKBZpbBvRRzQNfKPRThYUarwPZ4lCnYY0DIh0cCilrL6ADIZE223-I56ShbkDrU6YP_5kn1w)
+   * [color.firefox.com](https://color.firefox.com/?theme=XQAAAALyAQAAAAAAAABBKYhm849SCicxcT_m3XcGHf3p79EhVPWDZjvkqSASmCJAHUsaIUojJfPH18O3H5MQs3XGdXNWdoKZYFpmywIypZSMPW7nq32T5ZuGfGoTt7jyG6uD7EOktV3BK5OvONgfUGYkcCnXuUK2puWCmqssZw2ROzifwhvD6Be1KMIsCBswBDX8xgmUyoP3Hk-wiFIAngkS10MR-riVaJRPheUKibKm9HBjzXXnZ_eHN-ZKYvgmX6M1YodjEQcc625F2bKDz2nCQtka7NVvKDtiklpiW1bziUEccTtIwbmNm2Tv6iTIaEhcQnv2rrn5vlZH4cT_5z-Ing)
 3. And after that, you should be OK to go!
-   * Alternatively, you could install the [Firefox theme from the Firefox Addons website.](https://addons.mozilla.org/en-US/firefox/addon/biscuit/)
+   * Alternatively, you could install the [Firefox theme from the Firefox Addons website](https://addons.mozilla.org/en-US/firefox/addon/biscuit-dark-moss-green "Made by voidpine, respect to them for letting us use this.") *(My version may be considered as 'too simple', that's why we're linking to Voidpine's version)*.
 
 ### 💝 Thanks To
 Thanks to all these amazing people for their work!
